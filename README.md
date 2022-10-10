@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cwfaizan&label=Profile%20views&color=0e75b6&style=flat" alt="cwfaizan" /> </p>
 
-- 💬 I have many repositories in private due to customer privacy policy.
+- 💬 I have many repositories in private due to **customer privacy policy**
 
 - 🔭 I’m currently working on [Nerozen](Nerozen.in)
 
