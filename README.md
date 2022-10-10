@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Faizan Abbas</h1>
 <h3 align="center">I'm from Pakistan, currently serving as a Lecturer Mobile App Development using Flutter and Technical Team Lead with two different organizations. I have expertise in Mobile App Development, Website Development, Webservices and Big Data Analysis.</h3>
 
-<h5>I have many repositories in private due to customer privacy policy.</h5>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cwfaizan&label=Profile%20views&color=0e75b6&style=flat" alt="cwfaizan" /> </p>
+
+- 💬 I have many repositories in private due to customer privacy policy.
 
 - 🔭 I’m currently working on [Nerozen](Nerozen.in)
 
