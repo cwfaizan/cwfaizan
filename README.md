@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faizan Abbas</h1>
-<h3 align="center">I'm from Pakistan, currently serving as a Lecturer Mobile App Development using Flutter and Technical Team Lead with two different organizations. I have expertise in Mobile App Development, Website Development, Webservices and Big Data Analysis.</h3>
+<h3 align="center">I'm currently serving as a Lecturer Mobile App Development using Flutter and Technical Team Lead with two different organizations. I have expertise in Mobile App Development, Website Development, Webservices and Big Data Analysis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cwfaizan&label=Profile%20views&color=0e75b6&style=flat" alt="cwfaizan" /> </p>
 
