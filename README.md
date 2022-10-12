@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **faizan.abbas020@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/cwfaizan/](https://www.linkedin.com/in/cwfaizan/)
+- 📄 Get in-touch on LinkedIn [https://www.linkedin.com/in/cwfaizan/](https://www.linkedin.com/in/cwfaizan/)
 
 - 👨‍💻 Get in-touch on youtube [https://www.youtube.com/c/CodewithFaizan](https://www.youtube.com/c/CodewithFaizan)
 
