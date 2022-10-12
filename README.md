@@ -9,13 +9,15 @@
 
 - 🌱 I’m currently learning **Go Lang**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/cwfaizan/](https://www.linkedin.com/in/cwfaizan/)
-
 - 💬 Ask me about **Flutter, Laravel, Spring boot, Android, Java**
 
 - 📫 How to reach me **faizan.abbas020@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/cwfaizan/](https://www.linkedin.com/in/cwfaizan/)
+
+- 👨‍💻 Get in-touch on youtube [https://www.youtube.com/c/CodewithFaizan](https://www.youtube.com/c/CodewithFaizan)
+
+- 💻 Get in-touch on Web [https://codewithfaizan.com/](https://codewithfaizan.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
