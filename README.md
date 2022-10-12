@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/cwfaizan/](https://www.linkedin.com/in/cwfaizan/)
 
-- 💬 Ask me about **Flutter, Laravel, Spring boot, Android Java**
+- 💬 Ask me about **Flutter, Laravel, Spring boot, Android, Java**
 
 - 📫 How to reach me **faizan.abbas020@gmail.com**
 
