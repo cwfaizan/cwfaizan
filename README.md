@@ -1,5 +1,21 @@
 <h1 align="center">Hi 👋, I'm Faizan Abbas</h1>
-<h3 align="center">I'm currently serving as a Lecturer Mobile App Development using Flutter and Technical Team Lead with two different organizations. I have expertise in Mobile App Development, Website Development, Webservices and Big Data Analysis.</h3>
+<h3 align="center">Did MS in Computer Science (18-Years of Education) and currently serving as a Lecturer Mobile App Development using Flutter and Technical Team Lead with a different organization. I have more than 8-years of experience including app development & Teaching. I have expertise in Mobile App Development, Webservices, Website Development and Big Data Analysis. I can develop for you, Mobile App using flutter & Java, Website Development using PHP Laravel, Java Spring boot and web services development using PhP laravel and spring boot. I can also Visualize & Analyze data/big data for you using Tableau & Power BI. Currently, I'm looking for full-time remote or physical position with international company/org.</h3>
+
+<h4>FURTHER MY AREA OF INTEREST</h4>
+<h5>
+->Mobile App Development (using Flutter)
+->Android App Development (using Java)
+->Web Services in PHP Laravel, Java Spring Boot
+->Databases (SQL/NoSQL/SQLite), Warehousing
+->Data Structures and Algorithms
+->Data Mining/Data Science
+->Information Retrieval
+->Data Visualization
+->Social Network Analysis
+->Topic Modelling
+->Machine Learning
+->Pattern Recognition
+</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cwfaizan&label=Profile%20views&color=0e75b6&style=flat" alt="cwfaizan" /> </p>
 
