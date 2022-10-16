@@ -3,18 +3,18 @@
 
 <h4>FURTHER MY AREA OF INTEREST</h4>
 <h5>
-->Mobile App Development (using Flutter)
-->Android App Development (using Java)
-->Web Services in PHP Laravel, Java Spring Boot
-->Databases (SQL/NoSQL/SQLite), Warehousing
-->Data Structures and Algorithms
-->Data Mining/Data Science
-->Information Retrieval
-->Data Visualization
-->Social Network Analysis
-->Topic Modelling
-->Machine Learning
-->Pattern Recognition
+- Mobile App Development (using Flutter)
+- Android App Development (using Java)
+- Web Services in PHP Laravel, Java Spring Boot
+- Databases (SQL/NoSQL/SQLite), Warehousing
+- Data Structures and Algorithms
+- Data Mining/Data Science
+- Information Retrieval
+- Data Visualization
+- Social Network Analysis
+- Topic Modelling
+- Machine Learning
+- Pattern Recognition
 </h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cwfaizan&label=Profile%20views&color=0e75b6&style=flat" alt="cwfaizan" /> </p>
@@ -22,8 +22,6 @@
 - 💬 I have many repositories in private due to **customer privacy policy**
 
 - 🔭 I’m currently working on [Nerozen](Nerozen.in)
-
-- 🌱 I’m currently learning **Go Lang**
 
 - 💬 Ask me about **Flutter, Laravel, Spring boot, Android, Java**
 
