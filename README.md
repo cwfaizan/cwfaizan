@@ -6,7 +6,8 @@
 - Mobile App Development (using Flutter)</br>
 - Android App Development (using Java)</br>
 - Web Services in PHP Laravel, Java Spring Boot</br>
-- Databases (SQL/NoSQL/SQLite), Warehousing</br>
+- Databases (SQL/NoSQL)</br>
+- Big Data/Data Warehouse</br>
 - Data Structures and Algorithms</br>
 - Data Mining/Data Science</br>
 - Information Retrieval</br>
